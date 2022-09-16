@@ -2,6 +2,10 @@
 Trabalho de POO
 Este repositório contém uma série de questões feitas para compor um trabalho de Progamação orientada a objeto equivalente a primeira nota do semestre.;
 
+# T1_POO
+Integrantes
+Matheus Willian Nunes Maciel, Tullyo Honorio Araujo da Silva.;
+
 ## Questões
 
 | Question | Description |
