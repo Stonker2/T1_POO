@@ -4,7 +4,7 @@ Este repositório contém uma série de questões feitas para compor um trabalho
 
 # Equipe
 Integrantes
-Matheus Willian Nunes Maciel              Tullyo Honorio Araujo da Silva.;
+Matheus Willian Nunes Maciel e Tullyo Honorio Araujo da Silva.;
 
 ## Questões
 
@@ -20,3 +20,4 @@ Matheus Willian Nunes Maciel              Tullyo Honorio Araujo da Silva.;
 |21| Faça um programa para calcular e mostrar a que distância deve estar uma escada da parede. O usuário deve fornecer o tamanho da escada e a altura em que deseja pregar o quadro. Nesse algorítimo o usuário deve fornecer as informações necessárias para que o mesmo possa saber a distãncia correta entre a escada e a parede para que o quadro possa ser pendurado de forma correta. |
 |22| sabe-se que o quilowatt de energia custa o quinto de um salário mínimo. Faça um programa que receba um valor mínimo e a quantidade de quilowatts consumidos por uma residência. Calcule e mostre: A) O valor em reais, em cada quilowatt. B) O valor a ser pago, nessa residência. C) O valor em reais a ser pago com um valor de 15%. Nesse código o usuário deve digitar a quantidade de quilowatt consumidas por uma residência e o valor do salário do usuário e com isso o programa irá calcular o valor de cada quilowatt gasto, o valor da conta a ser pago pela residência, e o mesmo valor a ser pago, porém dessa vez com um desconto de 15%. |
 |23| Faça um program que receba um número real, que calcule e mostre: A) A parte inteira desse número. B) A parte fracionária desse número. C) O arredondamento desse número. Nesse programa o usuário digita um número real qualquer e ele irá calcular sua parte interira, sua parte fracionária e seu arrendondamento (se necessário). |
+|P.S| P-P-P-P-Por hoje é só P-P-P-Pessoal :)
